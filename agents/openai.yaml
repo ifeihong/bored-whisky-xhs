@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "BORED WHISKY 小红书图文"
+  short_description: "为 BORED WHISKY 生成小红书图片提示词和文案内容，内置品牌 DNA 和 6+2 模板体系"
+  default_prompt: "Use $bored-whisky-xhs to create Xiaohongshu content for BORED WHISKY, including image generation prompts and copywriting."
