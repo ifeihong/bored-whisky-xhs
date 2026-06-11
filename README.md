@@ -112,6 +112,14 @@ bored-whisky-xhs/
 
 ---
 
+## 关注 BORED WHISKY
+
+欢迎关注 BORED WHISKY 小红书官方账号，获取更多品牌动态和生活方式灵感：
+
+👉 [https://www.xiaohongshu.com/user/profile/66c88b99000000001d032441](https://www.xiaohongshu.com/user/profile/66c88b99000000001d032441)
+
+---
+
 ## 贡献
 
 欢迎提交 Issue 和 PR！
